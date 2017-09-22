@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="tvrssi">RSSI</string>
+    <string name="Scan">SCAN</string>
+    <string name="Insert">INSERT</string>
+    <string name="Reset">RESET</string>
+    <string name="Test">TEST</string>
+</resources>
